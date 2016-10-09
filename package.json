@@ -1,5 +1,5 @@
 {
-  "name": "node-config",
+  "name": "confee",
   "version": "0.1.0",
   "description": "A NodeJS config object with enviroments support",
   "main": "index.js",
@@ -7,6 +7,14 @@
     "test": "mocha tests/ --recursive",
     "build": "gulp dist-es5"
   },
+  "repository": {
+    "url": "https://github.com/robi-richter/confee",
+    "type": "git"
+  },
+  "keywords": [
+    "config",
+    "node"
+  ],
   "author": "Robert Richter",
   "license": "MIT",
   "dependencies": {
