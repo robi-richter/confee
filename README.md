@@ -1,4 +1,4 @@
-# node-config
+# Confee
 
 ## About
 This is a simple module to easily manage configurations for NodeJS applications.
