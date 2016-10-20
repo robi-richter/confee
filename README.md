@@ -7,7 +7,7 @@ You can extend configurations, so it's easy to override other configurations fro
 ## Usage:
 
 ```javascript
-const config = require('node-config');
+const config = require('confee');
 
 config.init({
   srcFolder:'./config', // path to config files
